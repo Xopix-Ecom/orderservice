@@ -136,13 +136,3 @@ product.service.url=http://localhost:8081
 * 📖 Add Swagger UI for API docs
 * 👤 Integrate User Service for enriched responses
 * 🔒 Add authentication and authorization
-
----
-
-## 💡 Want More?
-
-Let us know if you want:
-
-* 📬 Postman Collection
-* 🐳 Docker Compose setup for full microservice suite
-* ☸️ Kubernetes Deployment YAMLs
