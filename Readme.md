@@ -2,7 +2,7 @@
 
 The **Xopix Order Service** is a core microservice responsible for initiating and managing the basic lifecycle of customer orders within the Xopix E-commerce platform. In this initial phase, it focuses on receiving checkout requests, fetching cart contents, and persisting order details. It interacts with the Cart Service to retrieve current cart information.
 
-## Table of Contents
+## Table of Contents 
 
 - [Features](#features)
 - [Architecture](#architecture)
